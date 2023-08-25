@@ -2,6 +2,11 @@ html {
 	font-family: 'Inter', sans-serif;
 }
 
+.arena{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .box {
 	display: flex;
 	justify-content: center;
